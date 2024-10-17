@@ -1,0 +1,50 @@
+img{
+    width: 100px;
+    height: 100px;
+    width: 15%;
+    height: 15%;
+    display: flex;
+    text-align: center;
+    
+}
+  
+/* .navb{
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+    color: antiquewhite;
+
+} */
+#navb a:hover{
+    background-color: #575757;
+}
+
+h1{
+    color: skyblue;
+}
+
+h2{
+    text-align: center;
+    color: #29353C;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E6E6E6;
+}
+
+#abm{
+    text-align: center;
+    border: 4px;
+}
+
+#det{
+    align-items: center;
+}
+
+P#img{
+	text-align:center;
+}
